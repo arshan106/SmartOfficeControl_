@@ -19,22 +19,11 @@ Designed for scalable office solutions
 
 🛠️ Tech Stack
 
-Programming Language: Java
+Programming Language: Java,SpringBoot,Spring,Microservises,REST APi'S,MY SQL.
 
 UI Design: XML
 
 Platform: Android
-
-🎯 Project Objective
-
-The objective of this application is to provide a smart and easy-to-use solution for managing office operations digitally, reducing manual work, and improving overall efficiency.
-
-📌 Learning Outcomes
-
-Multi-screen Android application design
-
-Login and navigation flow implementation
-
 Clean UI/UX using XML layouts
 
 Java-based business logic handling
